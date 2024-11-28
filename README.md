@@ -23,8 +23,7 @@
 **Entities:**
 - **Darbība:** aprēķina faktoriālu
 - **Programmēšanas valoda:** Python
-- **Funkcijas tips:** (piemēram, rekurējoša, iteratīva)
-
+  
 ---
 
 ### **4. Intents:**
@@ -33,8 +32,7 @@
 **Entities:**
 - **Programmēšanas valoda:** JavaScript
 - **Koncepts:** asinhrona funkcija
-- **Piemēra tips:** (piemēram, promisi, async/await)
-
+  
 ---
 
 ### **5. Intents:**
